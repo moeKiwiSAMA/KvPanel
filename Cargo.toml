@@ -8,3 +8,8 @@ edition = "2018"
 
 [dependencies]
 virt = "0.2.11"
+lazy_static = "1.4.0"
+actix-web = "2"
+actix-rt = "1"
+actix-session = "0.3.0"
+actix-files = "0.2.1"
